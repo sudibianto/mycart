@@ -1,2 +1,3 @@
 # mycart
-based on opencart
+based on opencart 2.1
+no affiliate
